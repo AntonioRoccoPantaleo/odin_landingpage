@@ -29,13 +29,12 @@ a {
 
 .footer {
     justify-content: center;
-    padding: 20px;
     font-weight: 500;
     color: white;
 }
 
 .h1link {
-    margin: 20px;
+    margin: 30px;
     font-weight: 600;
     font-size: large;
 }
